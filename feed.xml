@@ -5,10 +5,34 @@
   <id>https://educane.curation.space/</id>
   <link href="https://educane.curation.space/"/>
   <link href="https://educane.curation.space/feed.xml" rel="self"/>
-  <updated>2015-06-13T01:41:31Z</updated>
+  <updated>2015-06-13T03:39:05Z</updated>
   <author>
     <name>Corinne K?stahler</name>
   </author>
+  <entry>
+    <title>Link Sammlung - Rassen</title>
+    <link rel="alternate" href="https://educane.curation.space/2015/06/13/link-sammlung-rassen.html"/>
+    <id>https://educane.curation.space/2015/06/13/link-sammlung-rassen.html</id>
+    <published>2015-06-13T03:39:05Z</published>
+    <updated>2015-06-13T15:39:05+00:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;div class="row"&gt;
+  &lt;div class="article"&gt;
+    &lt;p&gt;&lt;span/&gt;&lt;/p&gt;
+    
+    &lt;p&gt;&lt;div&gt; 
+       &lt;strong&gt;&lt;span style="font-size: 12pt;"&gt;Link Sammlung - Rassen&lt;/span&gt;&lt;/strong&gt; 
+      &lt;/div&gt; 
+      &lt;ul&gt; 
+       &lt;li&gt;&lt;span style="font-size: 12pt;"&gt;&lt;a href="http://zottelundco.de/Hundund/Hunderassen.htm"&gt;Hunderassen Liste&lt;/a&gt;: Eine empfehlenswerte und informative Hunderassen-Liste&lt;/span&gt;&lt;br&gt;&lt;/li&gt; 
+       &lt;li&gt;&lt;span style="font-size: 12pt;"&gt;&lt;a href="http://de.wikipedia.org/wiki/Bildtafel_Haushunde"&gt;Wikipedia Bilder Hunderassen&lt;/a&gt;: Eine Wikipedia Seite welche eine Bilderübersicht der verschiedenen Hunderassen gibt.&lt;/span&gt;&lt;/li&gt; 
+      &lt;/ul&gt;&lt;/p&gt;
+    
+  &lt;/div&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Link Sammlung - Hundegesetze</title>
     <link rel="alternate" href="https://educane.curation.space/2015/06/13/link-sammlung-hundegesetze.html"/>
