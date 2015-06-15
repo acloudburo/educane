@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://educane.curation.space//sitemap.xml
+Sitemap: http://info.educane//sitemap.xml

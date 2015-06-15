@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>info@educane</title>
   <subtitle>Hundeschule Educane Blogs and Links</subtitle>
-  <id>https://educane.curation.space/</id>
-  <link href="https://educane.curation.space/"/>
-  <link href="https://educane.curation.space/feed.xml" rel="self"/>
+  <id>http://info.educane/</id>
+  <link href="http://info.educane/"/>
+  <link href="http://info.educane/feed.xml" rel="self"/>
   <updated>2015-06-14T09:21:58Z</updated>
   <author>
     <name>Corinne K?stahler</name>
   </author>
   <entry>
     <title>Linksammlung - Haltung</title>
-    <link rel="alternate" href="https://educane.curation.space/2015/06/14/linksammlung-haltung.html"/>
-    <id>https://educane.curation.space/2015/06/14/linksammlung-haltung.html</id>
+    <link rel="alternate" href="http://info.educane/2015/06/14/linksammlung-haltung.html"/>
+    <id>http://info.educane/2015/06/14/linksammlung-haltung.html</id>
     <published>2015-06-14T09:21:58Z</published>
     <updated>2015-06-14T21:43:25+00:00</updated>
     <author>
@@ -45,8 +45,8 @@
   </entry>
   <entry>
     <title>Linksammlung - Gesundheit</title>
-    <link rel="alternate" href="https://educane.curation.space/2015/06/14/linksammlung-gesundheit.html"/>
-    <id>https://educane.curation.space/2015/06/14/linksammlung-gesundheit.html</id>
+    <link rel="alternate" href="http://info.educane/2015/06/14/linksammlung-gesundheit.html"/>
+    <id>http://info.educane/2015/06/14/linksammlung-gesundheit.html</id>
     <published>2015-06-14T09:21:58Z</published>
     <updated>2015-06-14T21:43:25+00:00</updated>
     <author>
@@ -74,8 +74,8 @@
   </entry>
   <entry>
     <title>Link Sammlung - Rassen</title>
-    <link rel="alternate" href="https://educane.curation.space/2015/06/13/link-sammlung-rassen.html"/>
-    <id>https://educane.curation.space/2015/06/13/link-sammlung-rassen.html</id>
+    <link rel="alternate" href="http://info.educane/2015/06/13/link-sammlung-rassen.html"/>
+    <id>http://info.educane/2015/06/13/link-sammlung-rassen.html</id>
     <published>2015-06-13T03:39:05Z</published>
     <updated>2015-06-14T21:43:24+00:00</updated>
     <author>
@@ -101,8 +101,8 @@
   </entry>
   <entry>
     <title>Link Sammlung - Hundegesetze</title>
-    <link rel="alternate" href="https://educane.curation.space/2015/06/13/link-sammlung-hundegesetze.html"/>
-    <id>https://educane.curation.space/2015/06/13/link-sammlung-hundegesetze.html</id>
+    <link rel="alternate" href="http://info.educane/2015/06/13/link-sammlung-hundegesetze.html"/>
+    <id>http://info.educane/2015/06/13/link-sammlung-hundegesetze.html</id>
     <published>2015-06-13T01:41:31Z</published>
     <updated>2015-06-13T14:56:32+00:00</updated>
     <author>
