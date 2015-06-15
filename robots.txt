@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://info.educane//sitemap.xml
+Sitemap: https://info.educane.ch//sitemap.xml
